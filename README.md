@@ -100,7 +100,7 @@ Locate to http://localhost:3000 and you will be able to see the app!
    ```
 Now you can locate to http://localhost:3000 and you will be able to see the app!
  
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/isik-finset/toy-project/blob/main/assets/home.png?raw=true)
 ***
 
 ## Further Improvements
