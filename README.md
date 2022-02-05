@@ -21,6 +21,8 @@ While developing the app, make sure that you do your best to learn something new
 ## Build With
 > These are the list of libraries and tools you should be using.
 
+<p align="center">
+
 |Front End|Back End|Common|
 |---------|---------|-----|
 |[React.js](https://reactjs.org/) |[Nest.js](https://nestjs.com/)|[TypeScript](https://www.typescriptlang.org/)|
@@ -29,10 +31,12 @@ While developing the app, make sure that you do your best to learn something new
 |[React Router V6](https://reactrouter.com/)|[Passport](https://www.passportjs.org/) & [JWT](https://jwt.io/)|[Lodash](https://lodash.com/)|
 |[React Native](https://reactnative.dev/)|[Redis](https://redis.io/)|[date-fns](https://date-fns.org/)|
 
+</p>
+
 ***
 
 ## A Quick Starter
-> If you want something to start with and build your app on top of it, you can use the default app set up by [Alex](https://github.com/alexfinset). Go ahead and clone the repo and follow the instructions provided in this [README](https://github.com/alexfinset/user-auth#readme).
+> If you want something to start with and build your app on top of it, you can use the default app set up by [Alex](https://github.com/alexfinset). Go ahead and clone the repo. You can follow the instructions provided in this [README](https://github.com/alexfinset/user-auth#readme).
 
 1. Clone the repo
    ```bash
@@ -49,10 +53,13 @@ While developing the app, make sure that you do your best to learn something new
 
    ```
 Locate to http://localhost:3000 and you will be able to see the app! 
+
+![alt text](https://github.com/isik-finset/toy-project/blob/main/assets/template.png?raw=true)
+
 ***
 
 ## Final App
-> Whereas, if you want to see how the final version should look like and function, you can checkout the BetterBlog created by [Islom](https://github.com/isik-finset). Note that this is just an example, so aim to make a better version of it. See further details in this [README](https://github.com/isik-finset/betterBlog/blob/master/README.md)
+> Whereas, if you want to see how the final version should look like and function, you can checkout the BetterBlog app created by [Islom](https://github.com/isik-finset). Note that this is just an example, so aim to make a better version of it. See further details in this [README](https://github.com/isik-finset/betterBlog/blob/master/README.md)
 
 ### 1. Clone the repo
 * Clone
@@ -100,10 +107,14 @@ Locate to http://localhost:3000 and you will be able to see the app!
    ```
 Now you can locate to http://localhost:3000 and you will be able to see the app!
  
-![alt text](https://github.com/isik-finset/toy-project/blob/main/assets/home.png?raw=true)
+![alt text](https://github.com/isik-finset/toy-project/blob/main/assets/home.png?raw=true),
+![alt text](https://github.com/isik-finset/toy-project/blob/main/assets/read.png?raw=true),
+![alt text](https://github.com/isik-finset/toy-project/blob/main/assets/login.png?raw=true),
+![alt text](https://github.com/isik-finset/toy-project/blob/main/assets/write.png?raw=true),
+
 ***
 
-## Further Improvements
+## Further Improvements regarding BetterBlog
 > There is a lot of room for improvement throughout all parts of the app. I suggest starting small: 
 
 1. **Front End**
@@ -122,10 +133,8 @@ Now you can locate to http://localhost:3000 and you will be able to see the app!
 
 
 ***
-## License 
-The whole project is [isik-tech](https://isik-tech.com) licensed.
 
-*** 
 ## Contributors
-<a href="https://github.com/islomnumanov/" target="blank"><img src="https://avatars.githubusercontent.com/u/83022212?v=4" width="50" alt="Isik Logo" style="border-radius:50%" /></a>
 <a href="https://github.com/isik-finset" target="blank"><img src="https://avatars.githubusercontent.com/u/97070258?v=4" width="50" alt="Isik Logo" style="border-radius:50%" /></a>
+<a href="https://github.com/alexfinset" target="blank"><img src="https://avatars.githubusercontent.com/u/86999057?v=4" width="50" alt="Isik Logo" style="border-radius:50%" /></a>
+<a href="https://github.com/jaeyong-gitple" target="blank"><img src="https://avatars.githubusercontent.com/u/995776?v=4" width="50" alt="Isik Logo" style="border-radius:50%" /></a>
