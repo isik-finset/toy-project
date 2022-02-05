@@ -8,7 +8,7 @@ The app you are going to build should include the most basic CRUD functionalitie
 
 While developing the app, make sure that you do your best to learn something new and get the most out of it. Below, you will be given a certain set of tools and a brief instruction on how to proceed with the project. Apart from this and below, you are free to be as much creative as you can and add extra features to your app. Best of luck! 💪
 
-🚩 ### *Your target should be*: 
+### 🚩 *Your target should be*: 
 
 * To build a fully functional CRUD application, from front to back.
 * To try to build everything from scratch (i.e. hooks/validation/guards/common items/etc.).
@@ -18,7 +18,7 @@ While developing the app, make sure that you do your best to learn something new
 
 ***
 
-🧰 ## Build With
+## 🧰 Build With
 > These are the list of libraries and tools you should be using.
 
 <p align="center">
@@ -35,7 +35,7 @@ While developing the app, make sure that you do your best to learn something new
 
 ***
 
-🦴 ## A Quick Starter
+## 🦴 A Quick Starter
 > If you want something to start with and build your app on top of it, you can use the default app set up by [Alex](https://github.com/alexfinset). Go ahead and clone the repo. You can follow the instructions provided in this [README](https://github.com/alexfinset/user-auth#readme).
 
 1. Clone the repo
@@ -58,7 +58,7 @@ Locate to http://localhost:3000 and you will be able to see the app!
 
 ***
 
-✅ ## Final App
+## ✅ Final App
 > Whereas, if you want to see how the final version should look like and function, you can checkout the BetterBlog app created by [Islom](https://github.com/isik-finset). Note that this is just an example, so aim to make a better version of it. See further details in this [README](https://github.com/isik-finset/betterBlog/blob/master/README.md)
 
 ### 1. Clone the repo
@@ -114,7 +114,7 @@ Now you can locate to http://localhost:3000 and you will be able to see the app!
 
 ***
 
-🏗️ ## Further Improvements regarding BetterBlog
+## 🏗️ Further Improvements regarding BetterBlog
 > There is a lot of room for improvement throughout all parts of the app. I suggest starting small: 
 
 1. **Front End**
@@ -134,7 +134,7 @@ Now you can locate to http://localhost:3000 and you will be able to see the app!
 
 ***
 
-👷 ## Contributors
+## 👷 Contributors
 <a href="https://github.com/isik-finset" target="blank"><img src="https://avatars.githubusercontent.com/u/97070258?v=4" width="50" alt="Isik Logo" style="border-radius:50%" /></a>
 <a href="https://github.com/alexfinset" target="blank"><img src="https://avatars.githubusercontent.com/u/86999057?v=4" width="50" alt="Isik Logo" style="border-radius:50%" /></a>
 <a href="https://github.com/jaeyong-gitple" target="blank"><img src="https://avatars.githubusercontent.com/u/995776?v=4" width="50" alt="Isik Logo" style="border-radius:50%" /></a>
